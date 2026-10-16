@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello friend, Keeping well? ✨
+## 🔭 I’m currently working on becoming a full stack developer
+## 💬 Ask me about anything you want!
+## Look for me: Level UP by Nicolas Pohl for language classes and Nicosfexc Art!
 
 <!--
 **Nicosfexc/Nicosfexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
